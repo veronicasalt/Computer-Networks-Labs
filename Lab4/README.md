@@ -41,7 +41,7 @@ Each program is designed with modularity and scalability, making them suitable f
 ---
 
 ## **How to Run the Programs**
-This lab is to be run with a C compiler. A text file to use as input will also be necessary to test the file transfer
+These programs are to be run with a C compiler. A text file to use as input will also be necessary to test the file transfer
    ```bash
    gcc -o udps udps.c
    gcc -o udpc udpc.c
